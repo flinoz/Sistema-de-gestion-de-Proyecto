@@ -75,7 +75,7 @@ Editar
 ## 🔧 Requisitos Previos
 
 - Node.js (versión 18.x o superior)
-- npm (incluido con Node.js)
+- npm (incluido con Node.js) - volver a instalar nuevamente
 - MongoDB Community Server o MongoDB Atlas
 - Git (opcional, para control de versiones)
 
